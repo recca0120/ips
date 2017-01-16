@@ -2,7 +2,6 @@
 
 namespace PayumTW\Ips\Action\Api;
 
-use Payum\Core\Request\Sync;
 use Payum\Core\Bridge\Spl\ArrayObject;
 use Payum\Core\Reply\HttpPostRedirect;
 use PayumTW\Ips\Request\Api\CreateTransaction;
